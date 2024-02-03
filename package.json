@@ -1,12 +1,20 @@
 {
   "name": "rock-paper-scissor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Let's play rock,paper, scissor!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dr4gon/rock-paper-scissor.git"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "De Long Iu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dr4gon/rock-paper-scissor/issues"
+  },
+  "homepage": "https://github.com/Dr4gon/rock-paper-scissor"
 }
