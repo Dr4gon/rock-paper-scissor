@@ -1,5 +1,5 @@
 {
-  "name": "@dr4gon-io/rock-paper-scissors",
+  "name": "dr4gons-rock-paper-scissors",
   "version": "1.0.0",
   "description": "Let's play rock,paper, scissors!",
   "main": "index.js",
