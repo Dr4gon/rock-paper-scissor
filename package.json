@@ -1,22 +1,22 @@
 {
-  "name": "rock-paper-scissor",
+  "name": "rock-paper-scissors",
   "version": "1.0.0",
-  "description": "Let's play rock,paper, scissor!",
+  "description": "Let's play rock,paper, scissors!",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dr4gon/rock-paper-scissor.git"
+    "url": "https://github.com/Dr4gon/rock-paper-scissors.git"
   },
   "keywords": [],
   "author": "De Long Iu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dr4gon/rock-paper-scissor/issues"
+    "url": "https://github.com/Dr4gon/rock-paper-scissors/issues"
   },
-  "homepage": "https://github.com/Dr4gon/rock-paper-scissor",
+  "homepage": "https://github.com/Dr4gon/rock-paper-scissors",
   "devDependencies": {
     "jest": "^29.7.0"
   }
